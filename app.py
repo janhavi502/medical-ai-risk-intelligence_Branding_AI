@@ -14,7 +14,7 @@ import requests
 # Config
 # -----------------------------
 
-MODEL_NAME = "claude-3-haiku-20240307"  # Small, fast, widely available model
+MODEL_NAME = "claude-haiku-4-5-20251001"  # Small, fast, widely available model
 
 
 TAG_RE = re.compile(r"<[^>]+>")
