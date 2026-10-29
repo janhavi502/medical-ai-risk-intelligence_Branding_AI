@@ -1,4 +1,4 @@
-## Medical AI Risk Intelligence – A4 Wrapper (Assignment 5)
+## Medical AI Risk Intelligence – A4 Wrapper 
 
 This app wraps your Assignment 4 Madison / n8n workflow in a public, user‑friendly interface using **Streamlit**.
 
